@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioMontanuy&show_icons=true&theme=tokyonight)
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMontanuy&theme=tokyonight&layout=compact&langs_count=8)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMontanuy&theme=tokyonight&layout=compact&langs_count=8" /></a>
